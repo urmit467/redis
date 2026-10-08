@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "express": "^5.2.1",
-    "ioredis":"^5.4.1"
+    "ioredis":"^5.4.1",
+    "bullmq":"^5.4.2"
   }
 }
